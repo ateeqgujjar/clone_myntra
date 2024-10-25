@@ -38,5 +38,11 @@
         width: 100px;
         
     }
+    .footer_menu1_heading {
+        font-size: 16px;
+    }
+    .footer_menu1 {
+        padding: 10px;
+    }
     
 }
